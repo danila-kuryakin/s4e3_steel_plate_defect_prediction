@@ -1,1 +1,1 @@
-# s4e3_steel_plate_defect_prediction
+Репозиторий был создан при участии вконкурсе [Steel Plate Defect Prediction](https://www.kaggle.com/competitions/playground-series-s4e2)
